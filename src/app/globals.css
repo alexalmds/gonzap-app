@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #000; /*Preto*/
+  --foreground: #ff9800; /*Laranja*/
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #000; /*Já está preto*/
+    --foreground: #ff9800; /*Çaranja*/
   }
 }
 
@@ -24,4 +24,9 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .orange {
+    color: var(--foreground); /*Aplica a cor laranja definida na variável*/
+  }
 }
+
+/*Laranja: ff9800*/
