@@ -1,3 +1,36 @@
+Gonzap é uma extensão para o Google Chrome que adiciona funcionalidades avançadas ao WhatsApp Web, permitindo uma experiência mais robusta e personalizada para os usuários. Com Gonzap, você pode gerenciar mensagens, mídia e muito mais diretamente do seu navegador.
+
+Funcionalidades
+
+Envio de Áudios Personalizados: Grave e envie áudios diretamente pelo WhatsApp Web.
+Gestão de Mensagens: Envie mensagens de texto prontas com apenas um clique.
+Envio de Mídias: Compartilhe imagens, vídeos e arquivos de forma eficiente.
+Dashboard Completo: Acesse todas as suas funcionalidades em um painel intuitivo e fácil de usar.
+Relatórios Detalhados: Gere relatórios para monitorar o uso e desempenho da extensão.
+Instalação Para instalar o Gonzap no Google Chrome, siga os passos abaixo:
+
+Clone este repositório: git clone https://github.com/Rebert-Azevedo/Gonzap.git
+
+Abra o Google Chrome e vá para chrome://extensions/.
+
+Ative o Modo de Desenvolvedor no canto superior direito.
+
+Clique em Carregar sem compactação e selecione a pasta onde você clonou o repositório. A extensão agora estará disponível no seu navegador!
+
+Após a instalação, abra o WhatsApp Web no Google Chrome. Você verá o ícone do Gonzap na barra de ferramentas do navegador. Clique nele para acessar o painel de controle e utilizar as funcionalidades da extensão.
+
+Contribuição Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs ou novas funcionalidades, sinta-se à vontade para abrir um issue ou enviar um pull request.
+
+Fork este repositório
+
+Crie um branch para seu feature (git checkout -b feature/nova-feature)
+Comprometa suas mudanças (git commit -m 'Adição nova feature')
+Enviar para o branch (git push origin feature/nova-feature)
+Abra um pull request
+Licença Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+Contato Rebert_azvd1 = Instagram Rebert Azevedo - Repositório LinkedIn: https://github.com/Rebert-Azevedo/Gonzap
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +67,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
